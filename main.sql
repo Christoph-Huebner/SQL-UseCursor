@@ -9,6 +9,9 @@
 -- Changes
 --
 -----------------------------------------------------------------------------------
+-- !! Set you database name, if is needed
+-- USE <DatabaseName>;
+
 -- Clean up the temp. tables
 DROP TABLE IF EXISTS #tmp;
 -- !! Set you source table name
